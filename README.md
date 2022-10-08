@@ -1,2 +1,0 @@
-# imcts
-Interactive mcts tree
